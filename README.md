@@ -7,7 +7,7 @@
   
   ‘<link href="address" rel="stylesheet">’ //turn on styles to site
   ‘<title> site_name </title>’ // just site name in browser
-  ‘<meta charset="utf-8">’ <!--most popular encoding --> <meta name="keywords" content="important, words"> <meta name="discription" content="short discription"> 
+  ‘<meta charset="utf-8">’ <!--most popular encoding --> ‘<meta name="keywords" content="important, words">’ ‘<meta name="discription" content="short discription">’ 
  
 ‘</head>’ 
  
