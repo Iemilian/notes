@@ -1,5 +1,5 @@
 # notes
-/*
+<!--
 // structure html-document
 
 <!DOCTYPE HTML>
@@ -52,4 +52,4 @@
 <em> // important part of text
 <div> // -
 <span> // set aside a word
-*/
+-->
