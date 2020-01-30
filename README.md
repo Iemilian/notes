@@ -1,9 +1,10 @@
 # notes
+/*
 // structure html-document
 
 <!DOCTYPE HTML>
 
-‘<head>’ // service functions
+<head> // service functions
   
   <link href="address" rel="stylesheet"> //turn on styles to site
   <title> site_name </title> // just site name in browser
@@ -51,3 +52,4 @@
 <em> // important part of text
 <div> // -
 <span> // set aside a word
+*/
